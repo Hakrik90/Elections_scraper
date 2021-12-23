@@ -24,7 +24,7 @@ Spuštění programu:
 > python   volby17.py   "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=5&xnumnuts=4101"   "cheb_volby17.csv"
 
 
-Běh programu
+Část běhu programu
 > STAHUJI DATA Z URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=5&xnumnuts=4101
 > 
 > STAHUJI DATA Z URL: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=5&xobec=554499&xvyber=4101
