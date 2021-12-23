@@ -135,7 +135,7 @@ def election2017(link, file) -> None:
             f_writer = csv.writer(f)
             f_writer.writerow(header)
             f_writer.writerows(content)
-        print("UKONČUJI", sys.argv[0])
+        print("UKONČUJI:", sys.argv[0])
     except IndexError:
         print("Nastala chyba. Nejspíš máte špatný odkaz nebo jste jej zapomněli dát do uvozovek.")
         quit()
