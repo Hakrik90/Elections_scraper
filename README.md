@@ -1,2 +1,2 @@
-# Elections_scraper
+# Elections scraper
 Projekt 3
